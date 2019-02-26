@@ -1,0 +1,24 @@
+.info-center-td {
+    text-align: center;
+}
+
+.info-location {
+    letter-spacing: 8px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.info-date {
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.info-location-seperator {
+    border-bottom: 2px solid white;
+    width: 25px;
+
+    margin: auto;
+    margin-top:6px;
+    margin-bottom: 4px;
+}

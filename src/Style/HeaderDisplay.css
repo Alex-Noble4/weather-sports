@@ -1,0 +1,30 @@
+.header-table {
+    width: 90%;
+    position:fixed;
+    top:10px;
+    z-index: 10;
+}
+
+
+.header-menu-icon {
+    text-align: left;
+    width: 20%;
+}
+
+.header-time {
+    text-align: right;
+    font-size: 12px;
+    width: 20%;
+}
+
+.header-date {
+    text-align: center;
+    font-weight: bold;
+    font-size: 12px;
+    width: 60%;
+    vertical-align: middle;
+}
+
+.header-date-icon {
+    padding: 0 5px;
+}

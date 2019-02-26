@@ -1,0 +1,17 @@
+.weather-div {
+    width: 90%;
+}
+.weather-table {
+    width: 100%;
+}
+
+.stick-to-bottom {
+    width: 90%;
+    position:fixed;
+    bottom:10px;
+    z-index: 10;
+}
+
+.big-space {
+    padding-top:50px;
+}

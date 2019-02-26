@@ -1,0 +1,43 @@
+.temp {
+
+}
+
+.temp-icon {
+    text-align: center;
+}
+
+.temp-number {
+    vertical-align: bottom;
+}
+.temp-number h1 {
+    font-size: 72px;
+    font-weight: lighter;
+    display: inline-block;
+
+    margin: 0;
+    padding: 0;
+
+    margin-top: -32px;
+}
+
+.temp-celcius-letter {
+    vertical-align: bottom;
+    padding-bottom: 15px;
+}
+.temp-celcius-letter span {
+    font-weight: lighter;
+    
+    margin: 0 0 0 0;
+    padding: 0;
+}
+
+.temp-celcius-symbol {
+    vertical-align: bottom;
+}
+.temp-celcius-symbol span {
+    font-weight: 400;
+    font-size: 27px;
+    
+    margin: 0 0 0 0;
+    padding: 0;
+}

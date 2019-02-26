@@ -1,0 +1,22 @@
+.si-table {
+    text-align: center;
+}
+.si-type {
+
+    font-size: 13px;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+
+.si-divider div {
+    width: 20px;
+    border-bottom: 2px solid white;
+    margin:auto;
+    margin-bottom: 4px;
+}
+
+.si-value {
+    font-weight: lighter;
+    font-size: 11px;
+    letter-spacing: 2px;
+}

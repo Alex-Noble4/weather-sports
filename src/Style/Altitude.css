@@ -1,0 +1,30 @@
+.alt-table {
+    width: 100%;
+    margin-top: 4%;
+}
+
+.alt-meters {
+    text-align: right;
+}
+.alt-meters span {
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.alt-info {
+    text-align: left;
+}
+.alt-info span {
+    font-size: 10px;
+    letter-spacing: 2px;
+}
+
+
+.alt-info-top span {
+    vertical-align: bottom;
+    font-weight: 700;
+}
+
+.alt-info-bottom span {
+    vertical-align: top;
+}
